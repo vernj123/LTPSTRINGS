@@ -1,0 +1,1 @@
+# Learning ruby programming strings examples. 
